@@ -1,1 +1,2 @@
 # pandas-challenge
+This week, I applied the lessons that was taught in week 4 to assemble a collection of dataframes to complete the analysis in this challenge. I manipulated the columns by using groupby and pd.DataFrame to get the desired DataFrames. Not to mention the usage of pd.cut to categorize the spending and the size of the school to its respective bins. With all the information gathered, I was able to summarize and analyze the details. 
